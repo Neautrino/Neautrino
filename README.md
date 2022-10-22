@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Subhendu Singh</h1>
 <h3 align="center">A passionate Software Engineer and CP coder from India</h3>
 
-<img align="right" alt="animated_picture" width="300" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alt="animated_picture" width="275" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neautrino&label=Profile%20views&color=0e75b6&style=flat" alt="neautrino" /> </p>
 
